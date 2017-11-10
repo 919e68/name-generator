@@ -32,7 +32,7 @@ let run = async () => {
       })
     }
     
-    console.log('generating names done.')
+    console.log('generating names done. chech exported folder > names.csv')
     process.exit()
     
 
